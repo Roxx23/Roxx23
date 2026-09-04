@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner-dark.svg?v=3" />
-  <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner.svg?v=3" alt="Ayush Bora — GenAI Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner-dark.svg?v=4" />
+  <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner.svg?v=4" alt="Ayush Bora — GenAI Engineer" />
 </picture>
 
 <a href="https://linkedin.com/in/ayushbora"><img src="https://img.shields.io/badge/LinkedIn-Connect-EC3013?style=flat-square&logo=linkedin&logoColor=F3F2F2&labelColor=201E1D" /></a>
@@ -32,8 +32,8 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 ## How I build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture-dark.svg?v=3" />
-  <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg?v=3" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture-dark.svg?v=4" />
+  <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg?v=4" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
 </picture>
 
 ---
