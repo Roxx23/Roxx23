@@ -1,24 +1,141 @@
-# 💫 About Me:
-🔭 I’m currently working on GenAI products & AI-driven applications<br>👯 I’m looking to collaborate on GenAI products, LLM-based systems, RAG pipelines, multi-agent workflows, and AI-powered applications<br>🤝 I’m looking for help with Optimizing LLM performance, deployment at scale, and turning prototypes into production systems<br>🌱 I’m currently learning Advanced LLM systems, scalable architectures <br>💬 Ask me about: GenAI, Flutter, Firebase, RAG, Product Engineering<br>⚡ Fun fact: I mix AI, product, and motorsport culture 🏎️
+<!-- ============ HEADER ============ -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E10600,100:0D1117&height=200&section=header&text=AYUSH%20BORA&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=GenAI%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Motorsport%20Nerd&descAlignY=57&descSize=16&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushbora23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushbora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thisisayu0912@gmail.com) 
+<a href="https://linkedin.com/in/ayushbora">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=E10600&center=true&vCenter=true&width=700&lines=Building+LLM+systems+that+survive+production;RAG+pipelines+%7C+Multi-agent+workflows+%7C+Flutter;Prototype+%E2%86%92+Production%2C+lap+after+lap;AI+%2B+Product+%2B+Motorsport+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Roxx23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Roxx23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxx23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=Roxx23&label=PIT%20VISITS&color=e10600&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Roxx23?label=FOLLOWERS&style=for-the-badge&color=e10600&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/badge/FOCUS-GenAI-e10600?style=for-the-badge&labelColor=0d1117" alt="focus" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Roxx23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Roxx23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏁 &nbsp;DRIVER PROFILE
+
+```yaml
+name:        Ayush Bora
+role:        GenAI / Product Engineer
+currently:   Shipping GenAI products & AI-driven applications
+learning:    Advanced LLM systems, scalable architectures
+open_to:     [ LLM systems, RAG pipelines, multi-agent workflows, AI products ]
+need_help:   [ LLM perf optimization, deployment at scale, prod hardening ]
+ask_me:      [ GenAI, Flutter, Firebase, RAG, Product Engineering ]
+fun_fact:    "I mix AI, product, and motorsport culture 🏎️"
+```
+
+<br/>
+
+<div align="center">
+
+| 🔧 SECTOR | ⏱️ CURRENT LAP |
+|:---|:---|
+| **Building** | GenAI products, LLM-backed apps |
+| **Optimizing** | Inference latency, retrieval quality |
+| **Learning** | Agentic architectures, eval pipelines |
+| **Racing toward** | Prototypes → production systems |
+
+</div>
+
+---
+
+## ⚙️ &nbsp;TECH GARAGE
+
+<div align="center">
+
+**`AI / ML`**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-E10600?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DBs-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<br/><br/>
+
+**`BACKEND / DATA`**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,firebase,docker&theme=dark" />
+
+<br/><br/>
+
+**`APP / LANGUAGES`**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,r,git,github,figma&theme=dark" />
+
+</div>
+
+---
+
+## 📊 &nbsp;TELEMETRY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roxx23&show_icons=true&hide_border=true&title_color=E10600&icon_color=E10600&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&background=0D1117&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=E10600&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" />
+
+<br/><br/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxx23&layout=compact&hide_border=true&title_color=E10600&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roxx23&bg_color=0d1117&color=c9d1d9&line=E10600&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 &nbsp;PODIUMS
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+
+</div>
+
+---
+
+## 🐍 &nbsp;CONTRIBUTION CIRCUIT
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Roxx23/Roxx23/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💬 &nbsp;RADIO CHECK
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+## 📡 &nbsp;PIT WALL
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayushbora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thisisayu0912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/_ayushbora23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Racing is life. Anything before or after is just waiting."</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E10600,100:0D1117&height=120&section=footer" />
+
+</div>
