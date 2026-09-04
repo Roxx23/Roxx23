@@ -58,13 +58,8 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" alt="trophies" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=201E1D&stroke=F3F2F2&ring=FF563C&fire=FF563C&currStreakLabel=F3F2F2&sideNums=F3F2F2&currStreakNum=F3F2F2&dates=8B8785&sideLabels=F3F2F2" />
-  <img width="56%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=F3F2F2&stroke=201E1D&ring=EC3013&fire=EC3013&currStreakLabel=201E1D&sideNums=201E1D&currStreakNum=201E1D&dates=6B6867&sideLabels=201E1D" alt="contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=00000000&stroke=F3F2F2&ring=FF563C&fire=FF563C&currStreakLabel=F3F2F2&sideNums=F3F2F2&currStreakNum=F3F2F2&dates=8B8785&sideLabels=F3F2F2" />
+  <img width="56%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=00000000&stroke=201E1D&ring=EC3013&fire=EC3013&currStreakLabel=201E1D&sideNums=201E1D&currStreakNum=201E1D&dates=6B6867&sideLabels=201E1D" alt="contribution streak" />
 </picture>
 
 <picture>
