@@ -23,7 +23,7 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 
 | Project | What it does | Stack |
 |:---|:---|:---|
-| **[Project name](https://github.com/Roxx23/repo)** | The problem, then the outcome with a number — *cut retrieval latency 2.4s → 400ms across 10k docs* | `Python` `FastAPI` `pgvector` |
+| **[CrediCheck](https://github.com/Roxx23/Credickeck---Multilingual-Fake-News-Detection)** | Verifies a claim in any language against a fact-check corpus and says why — FAISS retrieval, cross-encoder re-ranking, NLI stance, *under 1s per claim* | `FAISS` `MPNet` `DeBERTa NLI` `FastAPI` |
 | **[Project name](https://github.com/Roxx23/repo)** | What it does and who it is for — *multi-agent pipeline that drafts and reviews its own output* | `LangChain` `OpenAI` `Redis` |
 | **[Project name](https://github.com/Roxx23/repo)** | The Flutter one — *cross-platform app, N installs* | `Flutter` `Firebase` |
 
