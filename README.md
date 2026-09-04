@@ -32,7 +32,7 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 ## How I build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture-dark.svg?v=6" />
   <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg?v=5" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
 </picture>
 
