@@ -24,7 +24,7 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 | Project | What it does | Stack |
 |:---|:---|:---|
 | **[CrediCheck](https://github.com/Roxx23/Credickeck---Multilingual-Fake-News-Detection)** | Verifies a claim in any language against a fact-check corpus and says why — FAISS retrieval, cross-encoder re-ranking, NLI stance, *under 1s per claim* | `FAISS` `MPNet` `DeBERTa NLI` `FastAPI` |
-| **[Project name](https://github.com/Roxx23/repo)** | What it does and who it is for — *multi-agent pipeline that drafts and reviews its own output* | `LangChain` `OpenAI` `Redis` |
+| **[Airbnb data warehouse](https://github.com/Roxx23/Airbnb---Data-Engineering-Project)** | Bronze → silver → gold dbt pipeline on Snowflake: raw listings, bookings and hosts modelled into a fact table and one big table, with snapshots, tests and reusable macros | `dbt` `Snowflake` `SQL` |
 | **[Project name](https://github.com/Roxx23/repo)** | The Flutter one — *cross-platform app, N installs* | `Flutter` `Firebase` |
 
 ---
