@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner.svg" alt="Ayush Bora — GenAI Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner.svg?v=2" alt="Ayush Bora — GenAI Engineer" />
 
 <a href="https://linkedin.com/in/ayushbora"><img src="https://img.shields.io/badge/LinkedIn-Connect-EC3013?style=flat-square&logo=linkedin&logoColor=201E1D&labelColor=EAE9E9" /></a>
 <a href="mailto:thisisayu0912@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EC3013?style=flat-square&logo=gmail&logoColor=201E1D&labelColor=EAE9E9" /></a>
@@ -28,7 +28,7 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 
 ## How I build
 
-<img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
+<img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg?v=2" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
 
 ---
 
