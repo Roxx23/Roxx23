@@ -4,7 +4,7 @@
     <clipPath id="nameClip"><rect x="30" y="58" width="0" height="84"><animate attributeName="width" values="0;790" dur="0.95s" begin="0.35s" calcMode="spline" keyTimes="0;1" keySplines="0.16 0 0 1" fill="freeze"/></rect></clipPath>
   </defs>
 
-  <rect width="1000" height="260" fill="#201e1d"/>
+  <rect width="1000" height="260" fill="#0d1117"/>
 
   <rect x="820" y="0" width="180" height="0" fill="#ec3013">
     <animate attributeName="height" values="0;260" dur="0.7s" calcMode="spline" keyTimes="0;1" keySplines="0.16 0 0 1" fill="freeze"/>
