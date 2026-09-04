@@ -4,7 +4,7 @@
     <clipPath id="aTitle"><rect x="30" y="58" width="0" height="52"><animate attributeName="width" values="0;940" dur="1s" begin="0.2s" calcMode="spline" keyTimes="0;1" keySplines="0.16 0 0 1" fill="freeze"/></rect></clipPath>
   </defs>
 
-  <rect width="1000" height="470" fill="#201e1d"/>
+  <rect width="1000" height="470" fill="#0d1117"/>
 
   <g clip-path="url(#aKicker)">
     <text x="38" y="46" font-family="Archivo,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.4" fill="#ff9783">SYSTEM SKETCH</text>
