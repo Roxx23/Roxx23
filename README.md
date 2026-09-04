@@ -1,8 +1,11 @@
-<img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner.svg?v=2" alt="Ayush Bora — GenAI Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner-dark.svg?v=3" />
+  <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/banner.svg?v=3" alt="Ayush Bora — GenAI Engineer" />
+</picture>
 
-<a href="https://linkedin.com/in/ayushbora"><img src="https://img.shields.io/badge/LinkedIn-Connect-EC3013?style=flat-square&logo=linkedin&logoColor=201E1D&labelColor=EAE9E9" /></a>
-<a href="mailto:thisisayu0912@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EC3013?style=flat-square&logo=gmail&logoColor=201E1D&labelColor=EAE9E9" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Résumé-Download-201E1D?style=flat-square&logo=readdotcv&logoColor=201E1D&labelColor=EAE9E9" /></a>
+<a href="https://linkedin.com/in/ayushbora"><img src="https://img.shields.io/badge/LinkedIn-Connect-EC3013?style=flat-square&logo=linkedin&logoColor=F3F2F2&labelColor=201E1D" /></a>
+<a href="mailto:thisisayu0912@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EC3013?style=flat-square&logo=gmail&logoColor=F3F2F2&labelColor=201E1D" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Résumé-Download-8B8785?style=flat-square&logo=readdotcv&logoColor=F3F2F2&labelColor=201E1D" /></a>
 
 I build GenAI products end to end — retrieval pipelines, agent workflows, and the unglamorous
 production layer that keeps them fast and cheap once real users show up. Background spans
@@ -28,7 +31,10 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 
 ## How I build
 
-<img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg?v=2" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture-dark.svg?v=3" />
+  <img width="100%" src="https://raw.githubusercontent.com/Roxx23/Roxx23/main/assets/architecture.svg?v=3" alt="Ingest, retrieve, reason, evaluate, serve — with an evaluation feedback loop" />
+</picture>
 
 ---
 
@@ -42,15 +48,24 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 
 **ML** &nbsp;`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `Pandas` `NumPy`
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flutter,firebase,mongodb,docker,git&theme=light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flutter,firebase,mongodb,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flutter,firebase,mongodb,docker,git&theme=light" />
+</picture>
 
 ---
 
 ## Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" alt="trophies" />
+</picture>
 
-<img width="56%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=F3F2F2&stroke=201E1D&ring=EC3013&fire=EC3013&currStreakLabel=201E1D&sideNums=201E1D&currStreakNum=201E1D&dates=6B6867&sideLabels=201E1D" alt="contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=201E1D&stroke=F3F2F2&ring=FF563C&fire=FF563C&currStreakLabel=F3F2F2&sideNums=F3F2F2&currStreakNum=F3F2F2&dates=8B8785&sideLabels=F3F2F2" />
+  <img width="56%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&border_radius=0&background=F3F2F2&stroke=201E1D&ring=EC3013&fire=EC3013&currStreakLabel=201E1D&sideNums=201E1D&currStreakNum=201E1D&dates=6B6867&sideLabels=201E1D" alt="contribution streak" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roxx23/Roxx23/output/github-snake-dark.svg" />
