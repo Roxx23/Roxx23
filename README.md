@@ -78,25 +78,46 @@ fun_fact:    "I mix AI, product, and motorsport culture 🏎️"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roxx23&show_icons=true&hide_border=true&title_color=E10600&icon_color=E10600&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&background=0D1117&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=E10600&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Roxx23&hide_border=true&background=0D1117&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=E10600&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="contribution streak" />
 
 <br/><br/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxx23&layout=compact&hide_border=true&title_color=E10600&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roxx23&bg_color=0d1117&color=c9d1d9&line=E10600&point=ffffff&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/Focus-LLM_Systems-E10600?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Stack-Python_·_FastAPI_·_Flutter-E10600?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Mode-Shipping-E10600?style=flat-square&labelColor=0d1117" />
 
 </div>
 
----
-
-## 🏆 &nbsp;PODIUMS
+<!--
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  SELF-HOSTED CARDS — uncomment after deploying                      │
+  │                                                                     │
+  │  These four render from community Vercel projects that get paused   │
+  │  when the maintainer's free-tier spend cap is hit. Deploy your own  │
+  │  copies (free, one click each), then replace YOUR-STATS-APP and     │
+  │  YOUR-TROPHY-APP and YOUR-GRAPH-APP below with your Vercel domains  │
+  │  and delete these comment markers.                                  │
+  │                                                                     │
+  │  stats + langs → github.com/anuraghazra/github-readme-stats         │
+  │  trophy        → github.com/ryo-ma/github-profile-trophy            │
+  │  activity      → github.com/Ashutosh00710/github-readme-activity-graph │
+  └─────────────────────────────────────────────────────────────────────┘
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Roxx23&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img width="49%" src="https://YOUR-STATS-APP.vercel.app/api?username=Roxx23&show_icons=true&hide_border=true&title_color=E10600&icon_color=E10600&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=Roxx23&layout=compact&hide_border=true&title_color=E10600&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+<br/><br/>
+
+<img width="100%" src="https://YOUR-GRAPH-APP.vercel.app/graph?username=Roxx23&bg_color=0d1117&color=c9d1d9&line=E10600&point=ffffff&area=true&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://YOUR-TROPHY-APP.vercel.app/?username=Roxx23&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 
 </div>
+-->
 
 ---
 
@@ -116,11 +137,10 @@ fun_fact:    "I mix AI, product, and motorsport culture 🏎️"
 
 ## 💬 &nbsp;RADIO CHECK
 
-<div align="center">
+> *"To achieve anything, you must be prepared to dabble on the boundary of disaster."*
+> — Stirling Moss
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
+> *"The day you think you know everything about this game, you're finished."*
 
 ---
 
