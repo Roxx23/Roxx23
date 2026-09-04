@@ -25,7 +25,7 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 |:---|:---|:---|
 | **[CrediCheck](https://github.com/Roxx23/Credickeck---Multilingual-Fake-News-Detection)** | Verifies a claim in any language against a fact-check corpus and says why — FAISS retrieval, cross-encoder re-ranking, NLI stance, *under 1s per claim* | `FAISS` `MPNet` `DeBERTa NLI` `FastAPI` |
 | **[Airbnb data warehouse](https://github.com/Roxx23/Airbnb---Data-Engineering-Project)** | Bronze → silver → gold dbt pipeline on Snowflake: raw listings, bookings and hosts modelled into a fact table and one big table, with snapshots, tests and reusable macros | `dbt` `Snowflake` `SQL` |
-| **[Project name](https://github.com/Roxx23/repo)** | The Flutter one — *cross-platform app, N installs* | `Flutter` `Firebase` |
+| **[Multimodal anemia screening](https://github.com/Roxx23/multimodal-anemia-detection)** | Non-invasive anemia risk from four signals at once — voice acoustics, nail pallor images, reported symptoms and Hb history — fused into one explainable score | `React` `FastAPI` `OpenCV` `Librosa` |
 
 ---
 
