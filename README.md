@@ -48,10 +48,7 @@ ML engineering and Flutter product work, so I ship the model *and* the thing peo
 
 **ML** &nbsp;`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `Pandas` `NumPy`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flutter,firebase,mongodb,docker,git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flutter,firebase,mongodb,docker,git&theme=light" />
-</picture>
+
 
 ---
 
