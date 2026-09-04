@@ -5,7 +5,7 @@
 
 <a href="https://linkedin.com/in/ayushbora"><img src="https://img.shields.io/badge/LinkedIn-Connect-EC3013?style=flat-square&logo=linkedin&logoColor=F3F2F2&labelColor=201E1D" /></a>
 <a href="mailto:thisisayu0912@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EC3013?style=flat-square&logo=gmail&logoColor=F3F2F2&labelColor=201E1D" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Résumé-Download-8B8785?style=flat-square&logo=readdotcv&logoColor=F3F2F2&labelColor=201E1D" /></a>
+<a href="https://drive.google.com/file/d/1ROF_uSm_muZdDm-1tQjeEWEgHTvk7cV1/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-Download-8B8785?style=flat-square&logo=readdotcv&logoColor=F3F2F2&labelColor=201E1D" /></a>
 
 I build GenAI products end to end — retrieval pipelines, agent workflows, and the unglamorous
 production layer that keeps them fast and cheap once real users show up. Background spans
